@@ -1,4 +1,4 @@
-# function to convert from ASCII list to a string using for loops
+# Function to convert from ASCII list to a string using for loops
 
 def decrypted(nums):
   result = "" # empty string to contain final result at the end
