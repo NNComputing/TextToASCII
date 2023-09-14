@@ -11,4 +11,4 @@ def decrypted(nums):
 sample = [67, 111, 109, 112, 117, 116, 105, 110, 103, 32, 105, 115, 32, 73, 110, 116, 101, 114, 101, 115, 116, 105, 110, 103]
 print(decrypted(sample)) # returns 'Computing is Interesting'
 
-#### DONE BY NAVIN AMAL ANAND ASRJC CLASS 24/12 ####
+#### MADE BY NAVIN AMAL ANAND ASRJC CLASS 24/12 ####
